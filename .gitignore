@@ -1,0 +1,8 @@
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+/tracking/build/
+.idea/*
+.DS_Store
+*.DS_Store
+tracking/calibration_data.json
+softball_tracker/ios/opencv2.framework

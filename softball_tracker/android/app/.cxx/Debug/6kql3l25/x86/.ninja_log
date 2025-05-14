@@ -1,0 +1,5 @@
+# ninja log v5
+13	97	7632659422370848	CMakeFiles/native-lib.dir/C_/Users/ethan/sdmay25-11/softball_tracker/lib/cpp/native-lib.cpp.o	b1873fc11ad57335
+8	4517	7632659466153147	CMakeFiles/native-lib.dir/C_/Users/ethan/sdmay25-11/softball_tracker/lib/cpp/opencv_example.cpp.o	af49b1f3f612fe3e
+1	5435	7632659475540688	CMakeFiles/native-lib.dir/C_/Users/ethan/sdmay25-11/softball_tracker/lib/cpp/detect_track.cpp.o	26d711cabc01c37a
+5436	7013	7632659489891604	C:/Users/ethan/sdmay25-11/softball_tracker/build/app/intermediates/cxx/Debug/6kql3l25/obj/x86/libnative-lib.so	e4648b3b175bdfd4

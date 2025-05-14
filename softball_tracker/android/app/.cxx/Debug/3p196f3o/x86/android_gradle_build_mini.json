@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Hydeg\\Senior_Design\\NewFlut\\sdmay25-11\\softball_tracker\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Hydeg\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Hydeg\\Senior_Design\\NewFlut\\sdmay25-11\\softball_tracker\\android\\app\\.cxx\\Debug\\3p196f3o\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Hydeg\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Hydeg\\Senior_Design\\NewFlut\\sdmay25-11\\softball_tracker\\android\\app\\.cxx\\Debug\\3p196f3o\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\Hydeg\\Senior_Design\\NewFlut\\sdmay25-11\\softball_tracker\\build\\app\\intermediates\\cxx\\Debug\\3p196f3o\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}
